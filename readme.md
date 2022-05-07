@@ -1,0 +1,1 @@
+The algorithm is based on backtracking technique.
