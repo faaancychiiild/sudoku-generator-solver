@@ -92,4 +92,4 @@ const solveBoards = boards => {
 
 module.exports = { solveBoard, validateBoard }
 
-// console.log(solveBoard(require('./generatePuzzle').generate()));
+// console.table(solveBoard(require('./generatePuzzle').generate()));
