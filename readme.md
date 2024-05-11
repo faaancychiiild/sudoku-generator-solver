@@ -1,1 +1,1 @@
-The algorithm is based on backtracking technique.
+Employs the Backtracking algorithm
